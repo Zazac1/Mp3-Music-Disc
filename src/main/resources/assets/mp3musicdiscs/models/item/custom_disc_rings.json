@@ -1,0 +1,1 @@
+{ "parent": "minecraft:item/template_music_disc", "textures": { "layer0": "mp3musicdiscs:item/disc_edge", "layer1": "mp3musicdiscs:item/disc_material_base", "layer2": "mp3musicdiscs:item/disc_material_rings", "layer3": "mp3musicdiscs:item/disc_centre" } }

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " G ",
+    "GDG",
+    " G "
+  ],
+  "key": {
+    "G": "minecraft:glass",
+    "D": "minecraft:diamond"
+  },
+  "result": {
+    "id": "mp3musicdiscs:empty_music_disc",
+    "count": 1
+  }
+}

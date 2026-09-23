@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "fr.zazac1.mp3musicdiscs.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["client.PauseScreenMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

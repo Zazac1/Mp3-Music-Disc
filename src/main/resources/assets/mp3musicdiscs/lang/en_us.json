@@ -1,0 +1,13 @@
+{
+  "mp3musicdiscs.title": "MP3 Music Discs",
+  "mp3musicdiscs.library": "My music discs",
+  "mp3musicdiscs.import": "Import MP3",
+  "mp3musicdiscs.loot": "Loot configuration",
+  "mp3musicdiscs.save": "Save disc",
+  "mp3musicdiscs.back": "Back",
+  "mp3musicdiscs.empty": "No custom discs yet. Import an MP3 to begin.",
+  "mp3musicdiscs.search": "Search loot tables...",
+  "mp3musicdiscs.no_loot": "No loot table matches your search."
+  ,"item.mp3musicdiscs.custom_music_disc": "Custom Music Disc"
+  ,"item.mp3musicdiscs.empty_music_disc": "Blank Music Disc"
+}

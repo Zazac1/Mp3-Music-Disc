@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "mp3musicdiscs",
+  "version": "${version}",
+  "name": "MP3 Music Discs",
+  "description": "Create custom Minecraft music discs from MP3 files in game.",
+  "authors": ["Zazac1"],
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["fr.zazac1.mp3musicdiscs.Mp3MusicDiscsMod"],
+    "client": ["fr.zazac1.mp3musicdiscs.client.Mp3MusicDiscsClient"],
+    "modmenu": ["fr.zazac1.mp3musicdiscs.client.ModMenuIntegration"]
+  },
+  "mixins": ["mp3musicdiscs.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": { "modmenu": "*" }
+}

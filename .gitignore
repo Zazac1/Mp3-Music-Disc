@@ -1,0 +1,23 @@
+# Gradle and build outputs
+.gradle/
+.gradle-user/
+build/
+bin/
+out/
+remappedSrc/
+
+# Development runtime directories
+run/
+run-client/
+run-server/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Operating-system files
+.DS_Store
+Thumbs.db

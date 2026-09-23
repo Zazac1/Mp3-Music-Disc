@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      { "when": "stripes", "model": { "type": "minecraft:model", "model": "mp3musicdiscs:item/custom_disc_stripes", "tints": [ { "type": "minecraft:custom_model_data", "index": 0, "default": -12566493 }, { "type": "minecraft:custom_model_data", "index": 1, "default": -10176560 }, { "type": "minecraft:custom_model_data", "index": 2, "default": -10176560 }, { "type": "minecraft:custom_model_data", "index": 3, "default": -1582432 } ] } },
+      { "when": "dots", "model": { "type": "minecraft:model", "model": "mp3musicdiscs:item/custom_disc_dots", "tints": [ { "type": "minecraft:custom_model_data", "index": 0, "default": -12566493 }, { "type": "minecraft:custom_model_data", "index": 1, "default": -10176560 }, { "type": "minecraft:custom_model_data", "index": 2, "default": -10176560 }, { "type": "minecraft:custom_model_data", "index": 3, "default": -1582432 } ] } },
+      { "when": "checker", "model": { "type": "minecraft:model", "model": "mp3musicdiscs:item/custom_disc_checker", "tints": [ { "type": "minecraft:custom_model_data", "index": 0, "default": -12566493 }, { "type": "minecraft:custom_model_data", "index": 1, "default": -10176560 }, { "type": "minecraft:custom_model_data", "index": 2, "default": -10176560 }, { "type": "minecraft:custom_model_data", "index": 3, "default": -1582432 } ] } },
+      { "when": "gradient", "model": { "type": "minecraft:model", "model": "mp3musicdiscs:item/custom_disc_gradient", "tints": [ { "type": "minecraft:custom_model_data", "index": 0, "default": -12566493 }, { "type": "minecraft:custom_model_data", "index": 1, "default": -10176560 }, { "type": "minecraft:custom_model_data", "index": 2, "default": -10176560 }, { "type": "minecraft:custom_model_data", "index": 3, "default": -1582432 } ] } }
+    ],
+    "fallback": { "type": "minecraft:model", "model": "mp3musicdiscs:item/custom_disc_rings", "tints": [ { "type": "minecraft:custom_model_data", "index": 0, "default": -12566493 }, { "type": "minecraft:custom_model_data", "index": 1, "default": -10176560 }, { "type": "minecraft:custom_model_data", "index": 2, "default": -10176560 }, { "type": "minecraft:custom_model_data", "index": 3, "default": -1582432 } ] }
+  }
+}
